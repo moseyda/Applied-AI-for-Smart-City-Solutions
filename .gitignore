@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Models & arrays
+*.pth
+*.npy
+*.save
+
+# Ignore result CSVs only
+*_results.csv
