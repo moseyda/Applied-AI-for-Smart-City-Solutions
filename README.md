@@ -6,6 +6,17 @@ The project is structured around four core components (Parts A–D), each addres
 
 ---
 
+## Problem Statement & Engineering Intent (Spec)
+
+**The Problem:** Urban environments and industrial sectors face massive inefficiencies in traffic flow and energy usage, contributing heavily to carbon emissions. To achieve meaningful decarbonisation, physical systems must be optimised using predictive and intelligent software.
+
+**The Intent:** Build a suite of applied AI models to optimise physical-world systems, specifically focusing on energy consumption and route efficiency. The engineering spec requires:
+1. **Predictive Energy Modeling:** Using Deep Learning (LSTM) and Markov Decision Processes (MDP) to forecast electricity usage, which is critical for industrial energy management and sustainability.
+2. **Algorithmic Optimisation:** Utilizing Swarm Intelligence (ACO) and search algorithms to solve complex routing problems with multiple safety and efficiency constraints.
+3. **Modular Architecture:** Structuring the codebase in Python/PyTorch so that different mathematical approaches can be evaluated against baselines in isolated environments.
+
+This intent-first approach demonstrates how software and AI can be practically applied to solve real-world sustainability and infrastructure challenges.
+
 ##  Project Overview
 
 ### Problem Statement 1  
